@@ -17,7 +17,8 @@ title: Skriptum
 description: |
   Skriptum, das:
 
-  (Computer Science) eine Abfolge von Befehlen , von lat. manu scriptum
+  auch skript, von lat. manu scriptum; 
+  ist in der Computerwissenschaft eine Abfolge von Befehlen
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

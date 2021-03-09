@@ -4,6 +4,9 @@ title:  "Example Post"
 date:   2020-03-05 20:20:20 -0400
 categories: posts
 ---
+# Header 1
+## Header 2
+### Header 3
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
@@ -17,6 +20,11 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
+
+### Image Test
+![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.nature-isere.fr%2Fsites%2Fdefault%2Ffiles%2Fimages%2Fespece%2Fpratique%2Fimage_par_thomas_compigne_de_pixabay.jpg&f=1&nofb=1)
+
+***
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
