@@ -20,9 +20,9 @@ description: |
   auch skript, von lat. manu scriptum; 
   ist in der Computerwissenschaft eine Abfolge von Befehlen
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo:  # the GitHub repo name for your project
+github_repo:  jekyll # the GitHub repo name for your project
 github_username: skriptum
 
 # Set theme color here
