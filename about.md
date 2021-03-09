@@ -1,21 +1,21 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Skriptum, das
+(Computer Science) eine Abfolge von Befehlen ,
+von lat. manu scriptum
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
-
-## Themes
-
-## Browser Support
-
-## Installation
+### Marten Walk 
+Interessiere mich für alles in der Sphaere zwischen Politik und Internet. Bin begeisterter Python-Entwickler und baue liebend gerne kleine Apps, um verstörende oder lustige Dinge zu zeigen. 
+### tech stack 
+- **Python, besonders OOP** 
+- **git**
+- **pandas**
+- **dash / flask**
+- **jupyter notebooks / google colab**
+- **REST-APIs**
+- *sk-learn* am lernen
+- *Pytorch* möchte lernen
