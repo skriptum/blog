@@ -59,6 +59,20 @@ code {
 
   }
 
+  .preview-img {
+    width: 100%;
+    margin-right: 2%;
+    @media (min-width: $breakpoint-lg) {
+      width: 30%;
+    }
+  }
+
+  .preview-text {
+    @media (min-width: $breakpoint-lg) {
+      width: 65%;
+      float: right;
+    }
+  }
   blockquote {
     line-height: 1.375;
     padding-left: 20px;
