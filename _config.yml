@@ -20,6 +20,8 @@ description: |
   auch skript, von lat. manu scriptum; 
   ist in der Computerwissenschaft eine Abfolge von Befehlen
 
+  Marten Walk
+
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo:  blog # the GitHub repo name for your project
