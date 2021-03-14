@@ -21,6 +21,6 @@ gefiltert und in die Website eingespeist. Diese Website ist komplett in *Python*
 die Daten und stellt sie mithilfe der *Plotly-Library* dar. Die Nutzereingaben werden in der *Flask-App* verarbeitet und 
 anschließend dargestellt. Das Gante basiert stark auf *pandas* DataFrames, die in allen möglichen Arten verändert oder angepasst werden.
 
-[App Starten](https://unfall.herokuapp.com)
+[**App Starten**](https://unfallkarte.herokuapp.com)
 
-[Github Repo](https://github.com/skriptum/unfaelle)
+[**Github Repo**](https://github.com/skriptum/unfaelle)
